@@ -53,7 +53,7 @@ StScrollBar StButton#vhandle:hover {
 }
 
 #Tooltip {
-    border: 1px solid rgba(212, 185, 67, 1.0);
+    border: 1px solid rgb(189, 166, 65);
     border-radius: 4px;
     padding: 2px 12px;
     background-gradient-end: rgba(251, 234, 159, 0.9);
